@@ -1,0 +1,45 @@
+* {
+    box-sizing: border-box;
+    font-size: 24px;
+}
+
+body {
+    margin: 0%;
+    padding: 0%;
+    background-color: violet;
+}
+
+.green {
+    background-color: bisque;
+}
+
+.pink {
+    background-color: pink;
+}
+
+.purple {
+    background-color: purple;
+}
+
+.brown {
+    background-color: palegoldenrod;
+}
+
+.center {
+    display: flex;
+    justify-content: center;
+}
+
+.firstheight {
+    height: 100px;
+}
+
+.thirdheight {
+    height: 300px;
+}
+
+button {
+    display: flex;
+    height: 100%;
+    width: 100%;
+}
